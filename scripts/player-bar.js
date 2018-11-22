@@ -44,3 +44,5 @@ $('#time-control input').on('input', function (event) {
   });
 
 }
+
+ var helper = new Helper();
